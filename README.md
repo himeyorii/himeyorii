@@ -5,15 +5,17 @@
 
 ###
 
-<h2 data-importer="text" align="left">Hello , My name is Himeyorii</h1>
-
-###
-
 <h2 data-importer="text" align="left">About me</h2>
 
 ###
 
-<p data-importer="text" align="left">💻 Web Developer<br>🐧 Linux User<br>🎯 Goals: Belajar Seniatnya Saja<br>🎲 Fun fact: .</p>
+<h1 align="center">Hi 👋 I'm Himeyorii</h1>
+
+<p align="center">
+Graphic Designer • Web Developer
+</p><br>
+
+<p data-importer="text" align="left">🐧 Linux User<br>🎯 Goals: Belajar Seniatnya Saja<br>🎲 Fun fact: .</p>
 
 ###
 
