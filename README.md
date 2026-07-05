@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋 I'm Himeyorii</h1>
 
-<h2 align="left">
+<p align="left" style="font-size:50px;">
 Graphic Designer • Web Developer (On going)
-</h2>
+</p>
 
 ###
 
