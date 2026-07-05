@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Himeyorii</p>
+<h2 data-importer="text" align="left">My name is Himeyorii</h1>
 
 ###
 
