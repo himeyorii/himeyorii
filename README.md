@@ -21,7 +21,7 @@ Graphic Designer • Web Developer (On going)
 
 🌱 Currently Learning
 - JavaScript <br>
-- PHP <br
+- PHP <br>
 - UI/UX Design <br>
 
 🎯 Goal
