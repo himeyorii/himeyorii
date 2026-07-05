@@ -3,6 +3,7 @@
 <p align="left">
 Graphic Designer • Web Developer
 </p>
+
 ###
 
 <div data-importer="image" align="center">
@@ -14,9 +15,20 @@ Graphic Designer • Web Developer
 <h2 data-importer="text" align="left">About me</h2>
 
 <p align="left">
-🐧 Linux User<br>
-🎯 Goals: Belajar Seniatnya Saja<br>
-🎲 Fun fact: .</p>
+💻 Graphic Designer & Web Developer <br>
+
+🐧 Arch Linux User <br>
+
+🌱 Currently Learning 
+• JavaScript
+• PHP
+• UI/UX Design
+
+🎯 Goal
+Create beautiful and functional websites.
+
+🎮 Interest
+Minecraft Development</p>
 
 ###
 
