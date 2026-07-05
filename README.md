@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋 I'm Himeyorii</h1>
 
 <p align="left">
-Graphic Designer • Web Developer
+Graphic Designer • Web Developer (On going)
 </p>
 
 ###
@@ -20,15 +20,17 @@ Graphic Designer • Web Developer
 🐧 Arch Linux User <br>
 
 🌱 Currently Learning <br>
-• JavaScript
-• PHP
-• UI/UX Design
+• JavaScript <br>
+• PHP <br
+• UI/UX Design <br>
 
 🎯 Goal
 Create beautiful and functional websites.
 
 🎮 Interest
-Minecraft Development</p>
+Web Development <br>
+Minecraft Development <br>
+</p>
 
 ###
 
