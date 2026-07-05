@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋 I'm Himeyorii</h1>
 
-<p align="left" style="font-size:50px;">
+<p align="left" style="font-size:500px;">
 Graphic Designer • Web Developer (On going)
 </p>
 
