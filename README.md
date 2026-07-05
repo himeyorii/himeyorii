@@ -7,9 +7,7 @@
 
 <h2 data-importer="text" align="left">About me</h2>
 
-###
-
-<h1 align="left">Hi 👋 I'm Himeyorii</h1>
+<h2 align="left">Hi 👋 I'm Himeyorii</h2>
 
 <p align="left">
 💻 Graphic Designer • Web Developer(on going) <br>
