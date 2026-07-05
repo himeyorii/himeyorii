@@ -19,7 +19,7 @@ Graphic Designer • Web Developer
 
 🐧 Arch Linux User <br>
 
-🌱 Currently Learning 
+🌱 Currently Learning <br>
 • JavaScript
 • PHP
 • UI/UX Design
