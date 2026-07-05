@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋 I'm Himeyorii</h1>
+<h1 align="left">Hi 👋 I'm Himeyorii</h1>
 
-<p align="center">
+<p align="left">
 Graphic Designer • Web Developer
 </p>
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="525" src="https://i.pinimg.com/originals/06/75/b1/0675b1ce4f074003f6153bf1fc989c20.gif"  />
+  <img data-importer="image" height="100%" src="https://i.pinimg.com/originals/06/75/b1/0675b1ce4f074003f6153bf1fc989c20.gif"  />
 </div>
 
 ###
