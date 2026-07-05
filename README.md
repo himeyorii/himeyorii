@@ -20,9 +20,9 @@ Graphic Designer • Web Developer (On going)
 🐧 Arch Linux User <br>
 
 🌱 Currently Learning
-- JavaScript <br>
-- PHP <br>
-- UI/UX Design <br>
+- JavaScript
+- PHP
+- UI/UX Design
 
 🎯 Goal
 Create beautiful and functional websites.
