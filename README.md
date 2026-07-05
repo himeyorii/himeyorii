@@ -29,8 +29,9 @@ Graphic Designer • Web Developer (On going)
 🎯 Goal
 Create beautiful and functional websites.
 
-🎮 Interest
+🎮 Interest <br>
 Web Development <br>
+Design <br>
 Minecraft Development <br>
 </p>
 
