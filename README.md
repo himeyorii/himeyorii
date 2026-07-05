@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋 I'm Himeyorii</h1>
 
 <p align="left">
-  <b>🎨 Creative Developer</b><br>
-  UI • Web • Design
+  <b>Graphic Designer & Web Developer</b><br>
+  Crafting beautiful interfaces and functional web experiences.
 </p>
 
 ###
