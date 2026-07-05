@@ -2,6 +2,12 @@
 
 ###
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="270" src="https://i.pinimg.com/originals/06/75/b1/0675b1ce4f074003f6153bf1fc989c20.gif"  />
+</div>
+
+###
+
 <p data-importer="text" align="left">My name is Himeyorii</p>
 
 ###
@@ -11,12 +17,6 @@
 ###
 
 <p data-importer="text" align="left">💻 Web Developer<br>🐧 Linux User<br>🎯 Goals: Belajar Seniatnya Saja<br>🎲 Fun fact: .</p>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="270" src="https://i.pinimg.com/originals/06/75/b1/0675b1ce4f074003f6153bf1fc989c20.gif"  />
-</div>
 
 ###
 
