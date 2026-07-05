@@ -12,10 +12,10 @@
 <h1 align="left">Hi 👋 I'm Himeyorii</h1>
 
 <p align="left">
-Graphic Designer • Web Developer
-</p><br>
-
-<p data-importer="text" align="left">🐧 Linux User<br>🎯 Goals: Belajar Seniatnya Saja<br>🎲 Fun fact: .</p>
+💻 Graphic Designer • Web Developer(on going) <br>
+🐧 Linux User<br>
+🎯 Goals: Belajar Seniatnya Saja<br>
+🎲 Fun fact: .</p>
 
 ###
 
