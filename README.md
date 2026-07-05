@@ -3,7 +3,8 @@
 <p align="left"> Creative Developer</p>
 
 <p align="left">
-Graphic Designer • Web Developer (On going)
+Creative Developer
+UI • Web • Design
 </p>
 
 ###
