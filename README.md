@@ -9,9 +9,9 @@
 
 ###
 
-<h1 align="center">Hi 👋 I'm Himeyorii</h1>
+<h1 align="left">Hi 👋 I'm Himeyorii</h1>
 
-<p align="center">
+<p align="left">
 Graphic Designer • Web Developer
 </p><br>
 
