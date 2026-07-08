@@ -18,7 +18,7 @@
 <p align="left">
 💻 Graphic Designer & Web Developer <br>
 
-🐧 Arch Linux User <br>
+🐧 Linux User <br>
 
 🌱 Currently Learning
 - JavaScript
