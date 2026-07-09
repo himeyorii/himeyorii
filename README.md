@@ -9,7 +9,7 @@
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="100%" src="https://i.pinimg.com/originals/06/75/b1/0675b1ce4f074003f6153bf1fc989c20.gif"  />
-</div>
+</div><br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
