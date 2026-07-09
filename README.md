@@ -64,9 +64,10 @@ Create beautiful and functional websites.
 
 ###
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/himeyorii/himeyorii/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /><br>
-  <img src="https://raw.githubusercontent.com/himeyorii/himeyorii/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Himeyorii&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Himeyorii&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Himeyorii&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ###
