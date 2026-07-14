@@ -45,7 +45,7 @@ Create beautiful and functional websites.
 🎮 Interest <br>
 - Web Development <br>
 - Design <br>
-- Minecraft Development <br>
+- Minecraft Mod Development <br>
 </p>
 
 ###
